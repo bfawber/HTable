@@ -1,0 +1,5 @@
+C:\Users\Bryan\Code\C#\HTable\HTable\bin\Debug\HTable.dll
+C:\Users\Bryan\Code\C#\HTable\HTable\bin\Debug\HTable.pdb
+C:\Users\Bryan\Code\C#\HTable\HTable\obj\Debug\HTable.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Code\C#\HTable\HTable\obj\Debug\HTable.dll
+C:\Users\Bryan\Code\C#\HTable\HTable\obj\Debug\HTable.pdb
